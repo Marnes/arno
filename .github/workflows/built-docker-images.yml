@@ -17,10 +17,8 @@ jobs:
           cache-dependency-path: package-lock.json
       - name: Run Clean Install
         run: npm ci
-        working-directory: .
       - name: Build
         run: npm run build && npm prune --production
-        working-directory: .
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v1
         with:
