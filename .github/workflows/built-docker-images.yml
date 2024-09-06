@@ -36,5 +36,5 @@ jobs:
           ECR_REPOSITORY: arno
           IMAGE_TAG: latest
         run: |
-          docker build -f f ./Dockerfile -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG ./
+          docker build -f ./Dockerfile -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG ./
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
