@@ -27,5 +27,5 @@ jobs:
           password: ${{secrets.GITHUB_TOKEN}}
       - name: 'Build Inventory Image'
         run: |
-          docker build -f ./Dockerfile -t ghcr.io/marnes/arno:latest ./
+          docker build -t ghcr.io/marnes/arno:latest ./
           docker push ghcr.io/marnes/arno:latest
