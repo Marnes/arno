@@ -17,7 +17,7 @@
         <tr class="text-start">
             <td>2024-09-03</td>
             <td>HD Steering Crank assy on the drive rod</td>
-            <td>2024-09-20 (17 days)</td>
+            <td>2024-09-19 (16 days)</td>
         </tr>
         </tbody>
     </table>
