@@ -15,6 +15,16 @@
         </thead>
         <tbody>
         <tr class="text-start">
+            <td>2025-05-08</td>
+            <td>Passenger door cannot be opened</td>
+            <td>-</td>
+        </tr>
+        <tr class="text-start">
+            <td>2025-05-08</td>
+            <td>Handbrake is unreliable</td>
+            <td>-</td>
+        </tr>
+        <tr class="text-start">
             <td>2024-09-03</td>
             <td>HD Steering Crank assy on the drive rod</td>
             <td>2024-09-19 (16 days)</td>

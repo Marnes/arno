@@ -3,8 +3,8 @@
     import img from '$lib/assets/Duke.jpeg';
 
     let now = $state(DateTime.now());
-    const targetDate = DateTime.fromISO('2024-09-03T08:00');
-    const breakReason = "HD Steering Crank assy on the drive rod"
+    const targetDate = DateTime.fromISO('2025-05-08T18:00');
+    const breakReason = "The passenger door cannot be opened, and the handbrake is unreliable"
 
     const diff = $derived(targetDate.diff(now, ['years', 'months', 'days', 'hours', 'minutes', 'seconds']));
 
