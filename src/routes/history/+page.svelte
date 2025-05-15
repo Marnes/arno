@@ -15,6 +15,16 @@
         </thead>
         <tbody>
         <tr class="text-start">
+            <td>2025-05-15</td>
+            <td>Damaged output shaft causing oil leak into the break drum</td>
+            <td>-</td>
+        </tr>
+        <tr class="text-start">
+            <td>2025-05-15</td>
+            <td>The springs are heavily corroded and may soon fail, risking the park brake locking up</td>
+            <td>-</td>
+        </tr>
+        <tr class="text-start">
             <td>2025-05-08</td>
             <td>Passenger door cannot be opened</td>
             <td>-</td>
